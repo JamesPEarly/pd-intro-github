@@ -3,3 +3,5 @@ It's awesome!
 
 2. How do you plan to use GitHub in your classroom?
 Everywhere I can!
+
+3. How will we use it?
